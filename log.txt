@@ -1,0 +1,12 @@
+[  1%] /data/local/tmp/./.
+[  2%] /data/local/tmp/./.
+[  3%] /data/local/tmp/./.
+[  4%] /data/local/tmp/./.
+[  5%] /data/local/tmp/./.
+[  6%] /data/local/tmp/./.
+[  7%] /data/local/tmp/./.
+[  8%] /data/local/tmp/./.
+[  9%] /data/local/tmp/./.
+[ 10%] /data/local/tmp/./.
+adb: error: failed to copy 'C:/Users/이경열/Desktop/AIQP4.0/app/bshop-2.3016.29g.apk' to '/data/local/tmp/./.': Is a directory
+rm: "." and ".." may not be removed

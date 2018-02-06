@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lgdacomiptv version="3681" checkstarttime="02:00:00" checkendtime="05:30:00" checkextime="">
+  <vender name="lge_tvg2a" model="S60UPI">
+    <firmware version="99.11.0204" mode="noexception" directory="/data/download/image/system" filesize="961745673">tvg2a-ota-userdebug-20180119_V.99.11.0204.zip</firmware>
+  </vender>
+  <xait version="451" mode="deferred" directory="/data/download/conf" filesize="1214">xait_345400000_201610191125.txt</xait>
+  <system>
+    <imcs address="123.140.104.156" port="80"></imcs>
+    <cadrm address="123.140.16.79" port="7845"></cadrm>
+    <dbs address="123.140.16.78" port="8000"></dbs>
+    <tod address="123.140.16.100" port="123"></tod>
+    <portal address="123.140.104.156" port="80"></portal>
+    <DPNode01 address="123.140.19.140" port="1554"></DPNode01>
+    <Emergency address="123.140.16.116" port="8080"></Emergency>
+    <scrambler address="" port=""></scrambler>
+    <server1 address="124.140.16.87" port="8080"></server1>
+    <noti1 address="233.18.145.131" port="5000"></noti1>
+    <noti2 address="123.140.16.85" port="8080"></noti2>
+    <emm address="233.18.145.129" port="5490"></emm>
+    <epg address="233.18.145.128" port="5040"></epg>
+    <B2BSVC address="FC.CT.4K.RE" port="10000"></B2BSVC>
+    <CDNS address="233.18.145.137" port="5370"></CDNS>
+    <CTCS address="203.248.154.86" port="80"></CTCS>
+    <IQMS address="233.18.145.95" port="56320"></IQMS>
+    <NMIMS address="203.248.154.147" port="80"></NMIMS>
+    <SBSPPL address="14.49.47.17" port="8801"></SBSPPL>
+    <SVCactivation address="SS.VR.MC.SE" port="81000"></SVCactivation>
+    <SVCactivation1 address="CTC.DC.QT.QCTC" port="21911"></SVCactivation1>
+    <ads address="123.140.104.145" port="8085"></ads>
+    <adsconfig address="123.140.104.145" port="8080"></adsconfig>
+    <appstat address="stat.mylgtv.com" port="80"></appstat>
+    <appstat1 address="stat.mylgtv.com" port="443"></appstat1>
+    <bigdata address="106.103.253.96" port="8000"></bigdata>
+    <bshop1 address="tvapi.bshopping.co.kr" port="80"></bshop1>
+    <bshop2 address="api.bshopping.co.kr" port="80"></bshop2>
+    <cci address="233.18.145.140" port="5140"></cci>
+    <chimage address="203.248.154.13/image/" port="80"></chimage>
+    <ctc address="203.248.212.80" port="80"></ctc>
+    <cug address="123.140.104.142" port="80"></cug>
+    <fccerrlog address="123.141.15.156" port="6788"></fccerrlog>
+    <fps1 address="fps.uplus.co.kr" port="7471"></fps1>
+    <fps2 address="61.34.165.92" port="7471"></fps2>
+    <imcs1 address="iptvimcschk.uplus.co.kr" port="443"></imcs1>
+    <isu address="iptvisu.lgdacom.net" port="8900"></isu>
+    <loglevel address="loglevel.uplus.co.kr" port="1113"></loglevel>
+    <logserver address="182.223.73.182" port="8551"></logserver>
+    <lotteone address="124.243.51.209" port="80"></lotteone>
+    <ppl address="203.248.154.19" port="80"></ppl>
+    <push1 address="upush.uplus.co.kr" port="8000"></push1>
+    <push2 address="upush.uplus.co.kr" port="8001"></push2>
+    <pushaid address="upush_ac.uplus.co.kr" port="9000"></pushaid>
+    <pushgw1 address="upushgw.uplus.co.kr" port="9100"></pushgw1>
+    <pushgw2 address="upushgw.uplus.co.kr" port="4430"></pushgw2>
+    <rcm address="123.140.104.158" port="80"></rcm>
+    <sds1 address="233.18.145.138" port="5380"></sds1>
+    <sds2 address="203.248.154.14" port="8080"></sds2>
+    <sts address="sts.uplus.co.kr" port="443"></sts>
+    <suxm address="suxm.uplus.co.kr" port="80"></suxm>
+    <suxm1 address="suxm.uplus.co.kr" port="443"></suxm1>
+    <usearch address="search.uplus.co.kr" port="8085"></usearch>
+    <vbm1 address="233.18.145.130" port="5000"></vbm1>
+    <vbm2 address="123.140.16.84" port="8080"></vbm2>
+    <vodcg address="233.18.145.136" port="5360"></vodcg>
+    <xchecktime address="xchecktime.uplus.co.kr" port="1040"></xchecktime>
+    <xcion address="home.uplus.co.kr" port="80"></xcion>
+    <danms>
+      <snmpnms1 address="123.140.16.0/23" port="161"></snmpnms1>
+      <snmpnms2 address="192.168.219.1" port="161"></snmpnms2>
+      <snmpcomm read="powernms" write="powernms"></snmpcomm>
+      <nmsweb1 address="123.140.16.115" url="/post_info_save.jsp" port="443"></nmsweb1>
+      <nmsweb2 address="123.140.16.115" url="/stb/post_log_save.jsp" port="443"></nmsweb2>
+      <trapnms address="" port=""></trapnms>
+    </danms>
+    <ponms>
+      <snmpnms1 address="210.182.142.0/24" port="161"></snmpnms1>
+      <snmpnms2 address="211.63.37.0/24" port="161"></snmpnms2>
+      <snmpnms3 address="61.34.165.0/24" port="161"></snmpnms3>
+      <snmpcomm read="powernms" write="powernms"></snmpcomm>
+      <nmsweb1 address="211.63.37.249" url="/set_terminalinfo_iptv.jsp" port="443"></nmsweb1>
+      <nmsweb2 address="211.63.37.249" url="/set_terminalinfo_iptv.jsp" port="443"></nmsweb2>
+      <trapnms address="" port=""></trapnms>
+    </ponms>
+    <log address="123.140.16.116" url="/post_log_save.jsp" port="443">
+      <errloguploadtime1>07:30:00</errloguploadtime1>
+      <errloguploadtime2>14:00:00</errloguploadtime2>
+      <errloguploadtime3>19:00:00</errloguploadtime3>
+      <othloguploadtime>05:00:00</othloguploadtime>
+    </log>
+    <qos address="127.0.0.1" port1="8030" port2="8001" port3="3345">
+      <flag jitter="" send=""></flag>
+    </qos>
+  </system>
+  <cdn option="bandwidth">
+    <olan>
+      <contents min="5000000" max="20000000"></contents>
+      <other min="5000000" max="20000000"></other>
+    </olan>
+    <hfc10>
+      <contents min="5000000" max="15000000"></contents>
+      <other min="5000000" max="15000000"></other>
+    </hfc10>
+    <hfc>
+      <contents min="5000000" max="20000000"></contents>
+      <other min="5000000" max="20000000"></other>
+    </hfc>
+  </cdn>
+  <contents version="200807181727" directory="/data/download/image/bimage">
+    <waitvodlist></waitvodlist>
+    <backgroundvodlist></backgroundvodlist>
+    <initialposter></initialposter>
+    <posterlist></posterlist>
+    <newvodlist></newvodlist>
+    <hotvodlist></hotvodlist>
+  </contents>
+  <pvsretry></pvsretry>
+  <sbctype>54000</sbctype>
+  <software_update>
+    <polling_period>10</polling_period>
+    <polling_days>1</polling_days>
+    <polling_skip>1111111</polling_skip>
+    <polling_time>10:00</polling_time>
+    <polling_range>3</polling_range>
+  </software_update>
+  <quality>
+    <pcr thres="1"></pcr>
+    <decoding thres="0"></decoding>
+    <pts thres="1"></pts>
+    <rtp thres="1"></rtp>
+    <stream thres="0"></stream>
+  </quality>
+</lgdacomiptv>
+

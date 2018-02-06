@@ -1,0 +1,3 @@
+tar: removing leading '/' from member names
+LGU_data/logs/current/
+LGU_data/logs/current/logcat
